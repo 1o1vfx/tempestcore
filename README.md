@@ -4,7 +4,7 @@ Tempest Core was a hud F4 Scoreboard WIP but failed due to a scamming developer 
 
 This was made for a server named TempestNetworks
 
-Owned by ZE47 aka me!
+Owned by Operator aka me!
 
 Hope you enjoy this mess of code
 
